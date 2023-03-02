@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto Slab", serif;
+  color: gray;
+  background-color: powderblue;
+  font-size: 20px;
+}
+
+.app {
+  text-align: center;
+}
+
+.title {
+  font-family: "Do Hyeon", sans-serif;
+  font-size: 40px;
+  border: 5px dotted white;
+  background-color: rgb(162, 240, 250);
+}
+
+.question {
+  margin: 15px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.answers {
+  line-height: 2;
+  margin: 15px;
+  font-size: 17px;
+}
+
+.prompt {
+  font-family: "Do Hyeon", sans-serif;
+  font-size: 22px;
+}
+
+button {
+  background-color: rgb(94, 191, 230);
+  font-size: 16px;
+}
+button:hover {
+  background-color: rgb(1, 82, 187);
+  color: white;
+}
+img {
+  height: 200px;
+}
